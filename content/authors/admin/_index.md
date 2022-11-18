@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: LEI Jingzhe 雷婧喆
 
 # Full name (for SEO)
 first_name: Alice
